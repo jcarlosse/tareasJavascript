@@ -1,5 +1,5 @@
 // Tarea 2
-//Usar los operadores  /= *= -= += %=
+//Usar los operadores  =/ *= -= += %=
 
 // Valores originales
 var arreglo = [6,7,8,9,10];
