@@ -5,13 +5,13 @@ var arreglo = ['murcielago'];
 
 function contarVocales(palabra) {
 
-    var largo = palabra.length;
+    //var largo = palabra.length;
     var contA = 0, contE = 0, contI = 0, contO = 0, contU = 0, contCons = 0;
 
-    for (var i = 0; i < largo; i++) {
+    for (var i = 0; i < palabra.length; i++) {
         var letra = palabra.charAt(i).toLowerCase();
 
-        console.log(letra)
+       //console.log(letra)
 
         switch (letra) {
 
